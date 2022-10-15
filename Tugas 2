@@ -1,0 +1,26 @@
+Nama  : Mohamad Reza Ashari
+Kelas : TI 21 E
+Nim   : 20210040090
+Matkul: Pemrograman Berorientasi Objek
+
+1. Class adalah rancangan atau blue print dari sebuah objek. Objek adalah sebuah variabel yang merupakan Instance atau perwujudan Class.
+2. jenis-jenis method
+    A. Setter method
+          digunakan object untuk mengubah data baik itu berupa variabel instan maupun static
+         
+    B. Konstruktor
+          adalah method yang dijalankan pada awal dijalankannya program
+     
+    C. Getter method
+          ialah ketika kita menginginkan tidak sembarang data diakses oleh sembarang object, maka kita deklarasikan atribut kelas tersebut
+        menggunakan private. tetapi terkadang kita ingin object tertentu saja yang boleh mengakses atribut tersebut maka kita gunakan accessor method.
+       
+3. Penjelasan
+  1) pendeklarasian Komputer sebagai nama dari Class
+  2) membuat variabel dengan data string dengan ekapitulasi private
+  3) membuat method setter dengan parameter jenis dan merk untuk mengisi variabel yang telah dibuat dengan menggunakan parameter
+  4) membuat method getter dan menjadikan variabel jenis_komputer sebagai kembalian
+  5) membuat method getter dan menjadikan variabel merk sebagai kembalian
+  6) membuat object baru bernama mycom
+  7) mengisi nilai variabel pada object mycom menggunakan method setter setDataKomputer melalui dua parameter yang telah dibuat
+  8) menampilkan pada layar
